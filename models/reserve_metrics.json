@@ -1,0 +1,70 @@
+{
+  "metrics": {
+    "best_model": "Logistic Regression",
+    "all_models": {
+      "Logistic Regression": {
+        "accuracy": 0.7692,
+        "precision": 0.6591,
+        "recall": 0.6167,
+        "f1_score": 0.6286,
+        "cv_f1_mean": 0.6919,
+        "confusion_matrix": [
+          [
+            9,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "Random Forest": {
+        "accuracy": 0.6923,
+        "precision": 0.375,
+        "recall": 0.45,
+        "f1_score": 0.4091,
+        "cv_f1_mean": 0.3509,
+        "confusion_matrix": [
+          [
+            9,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      "XGBoost": {
+        "accuracy": 0.5385,
+        "precision": 0.35,
+        "recall": 0.35,
+        "f1_score": 0.35,
+        "cv_f1_mean": 0.2949,
+        "confusion_matrix": [
+          [
+            7,
+            3
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      }
+    }
+  },
+  "feature_importances": {
+    "Geological Grade (%)": 12.33,
+    "Lithology Score": 18.24,
+    "Fault Proximity (km)": 7.75,
+    "Ore Seam Thickness (m)": 16.45,
+    "Borehole Drill Depth (m)": 4.86,
+    "Mineralization Density": 11.79,
+    "Annual Rainfall (mm)": 4.89,
+    "Soil Moisture (%)": 8.1,
+    "NDVI Surface Vegetation": 3.74,
+    "Land Surface Temp (\u00b0C)": 11.84
+  }
+}

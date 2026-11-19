@@ -1,0 +1,22 @@
+{
+  "best_model": "Linear Regression",
+  "all_models": {
+    "Linear Regression": {
+      "mae": 6.14,
+      "rmse": 7.99,
+      "r2_score": 0.9621
+    },
+    "Random Forest Regressor": {
+      "mae": 9.66,
+      "rmse": 11.8,
+      "r2_score": 0.9173
+    },
+    "XGBoost Regressor": {
+      "mae": 9.01,
+      "rmse": 11.93,
+      "r2_score": 0.9154
+    }
+  },
+  "train_samples": 320,
+  "test_samples": 80
+}

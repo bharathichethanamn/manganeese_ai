@@ -1,0 +1,47 @@
+{
+  "analyst@manganese.ai": {
+    "user_id": "usr_analyst_001",
+    "full_name": "Alex Morgan",
+    "email": "analyst@manganese.ai",
+    "password_hash": "9facb36958fc1883daf8b6df67663338$eccb0ca35b4fa1de5812375c7b6c0a1e857516421891cebae98ed1a33f6cbd82",
+    "role": "Mining Analyst",
+    "email_verified": true,
+    "created_at": "2026-10-09T13:30:13.813389+00:00"
+  },
+  "engineer@manganese.ai": {
+    "user_id": "usr_3553d53c255d",
+    "full_name": "Test Engineer",
+    "email": "engineer@manganese.ai",
+    "password_hash": "d6f03e9dc2884d6672f2fba3f0b9ff3c$90a5d79d2c6896b7faebb06bb70210a94df27f0676d188039513bf19046e1f5c",
+    "role": "Mining Analyst",
+    "email_verified": true,
+    "created_at": "2026-10-09T15:57:51.962090+00:00"
+  },
+  "testuser_1791866581@manganese.ai": {
+    "user_id": "usr_e4bb82ccd739",
+    "full_name": "Test Engineer",
+    "email": "testuser_1791866581@manganese.ai",
+    "password_hash": "f6954f4d9b1ef34232709514a00d0e8f$a432648272a157106e374bf4893151b01fa3cf8dda03ccd8491297658c9b8bd0",
+    "role": "Mining Analyst",
+    "email_verified": true,
+    "created_at": "2026-10-13T04:43:01.133222+00:00"
+  },
+  "mining_pro_1791866648@manganese.ai": {
+    "user_id": "usr_3fef79ef717a",
+    "full_name": "Sarah Connor",
+    "email": "mining_pro_1791866648@manganese.ai",
+    "password_hash": "2edbeb1a930c38be8bd6e10e5038d69b$edc6394435ab8de6227f36042d4b7fd5f50f0d59e621d7ce7f897a4bd4943a00",
+    "role": "Mining Analyst",
+    "email_verified": true,
+    "created_at": "2026-10-13T04:44:08.386183+00:00"
+  },
+  "bharathi@gmail.com": {
+    "user_id": "usr_d75eb3297bd2",
+    "full_name": "Bharathi Chethana",
+    "email": "bharathi@gmail.com",
+    "password_hash": "75d347d43186205ad3ca3b17a9d35d81$c1c667e8bcb8a0caf9a876ebc9a8beb5b4386cb64f5551ca3c89600a2a800ca7",
+    "role": "Mining Analyst",
+    "email_verified": true,
+    "created_at": "2026-11-17T16:18:43.563740+00:00"
+  }
+}

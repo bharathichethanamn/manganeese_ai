@@ -1,0 +1,44 @@
+{
+  "dhanu@gmail.com": {
+    "email": "dhanu@gmail.com",
+    "otp_hash": "d63f6954f1c18fb5385a246188f877db6fb490ea1935b1c492edb44d7fbb08e3",
+    "salt": "03b4aadb9a7f8691",
+    "expires_at": 1791556764.6033814,
+    "attempts": 0,
+    "last_sent_at": 1791556464.6033814,
+    "user_data": {
+      "full_name": "Dhanupraba",
+      "email": "dhanu@gmail.com",
+      "password_hash": "0fcdc9fe8c86c26b30e1150b37dbc4bc$b1b6af48bd8db4e29f0058d671a8b03755795c602f432b757a2f488c48c6748a",
+      "role": "Mining Analyst"
+    }
+  },
+  "dh@gmail.com": {
+    "email": "dh@gmail.com",
+    "otp_hash": "9863aef942f183ecd423af628486a99e6d36838087bcbda32e2776774311128a",
+    "salt": "4d19b8e8036c978f",
+    "expires_at": 1791556993.0531623,
+    "attempts": 0,
+    "last_sent_at": 1791556693.0531623,
+    "user_data": {
+      "full_name": "Dhanu",
+      "email": "dh@gmail.com",
+      "password_hash": "0c1561a7afa6ac680e61e5588ec9b31f$2a38157d50d0e22390703f48f26d64a012b7aba2e3d7a4fe7c08ed5f3be6e0b1",
+      "role": "Mining Analyst"
+    }
+  },
+  "bharathichethanamn@gmail.com": {
+    "email": "bharathichethanamn@gmail.com",
+    "otp_hash": "32af3046a1bf83b371de4fb54ff5629f10f3486c2fb6098fbe950fa163399a4f",
+    "salt": "9fcb7c805ffb44e5",
+    "expires_at": 1791561033.1153734,
+    "attempts": 0,
+    "last_sent_at": 1791560733.1153734,
+    "user_data": {
+      "full_name": "Dhanu",
+      "email": "bharathichethanamn@gmail.com",
+      "password_hash": "2d458df514ee886f2080174ef00b8dec$1be2892b96da298f693497c7a75fce946a3864fe4e8e9ada6a749e98c396f85c",
+      "role": "Mining Analyst"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "metrics": {
+    "best_model": "XGBoost Classifier",
+    "all_models": {
+      "Logistic Regression": {
+        "accuracy": 0.88,
+        "precision": 0.8607,
+        "recall": 0.8808,
+        "high_risk_recall": 0.9423,
+        "f1_score": 0.8631,
+        "cv_recall_mean": 0.8954,
+        "confusion_matrix": [
+          [
+            18,
+            0,
+            0
+          ],
+          [
+            5,
+            21,
+            4
+          ],
+          [
+            0,
+            3,
+            49
+          ]
+        ]
+      },
+      "Random Forest Classifier": {
+        "accuracy": 0.86,
+        "precision": 0.8516,
+        "recall": 0.841,
+        "high_risk_recall": 0.9231,
+        "f1_score": 0.846,
+        "cv_recall_mean": 0.8226,
+        "confusion_matrix": [
+          [
+            15,
+            3,
+            0
+          ],
+          [
+            2,
+            23,
+            5
+          ],
+          [
+            0,
+            4,
+            48
+          ]
+        ]
+      },
+      "XGBoost Classifier": {
+        "accuracy": 0.89,
+        "precision": 0.8816,
+        "recall": 0.8603,
+        "high_risk_recall": 0.9808,
+        "f1_score": 0.8695,
+        "cv_recall_mean": 0.8628,
+        "confusion_matrix": [
+          [
+            15,
+            3,
+            0
+          ],
+          [
+            2,
+            23,
+            5
+          ],
+          [
+            0,
+            1,
+            51
+          ]
+        ]
+      }
+    }
+  },
+  "global_feature_importances": {
+    "equipment_downtime": 23.88,
+    "equipment_availability": 29.27,
+    "maintenance_hours": 1.41,
+    "rainfall": 7.4,
+    "blasting_delay": 20.26,
+    "historical_production": 4.32,
+    "production_trend": 4.75,
+    "temperature": 3.23,
+    "soil_moisture": 5.48
+  },
+  "feature_means": {
+    "equipment_downtime": 5.4965,
+    "equipment_availability": 77.493,
+    "maintenance_hours": 4.1732499999999995,
+    "rainfall": 29.083500000000004,
+    "blasting_delay": 2.135,
+    "historical_production": 298.42975,
+    "production_trend": 0.0035000000000000144,
+    "temperature": 20.718000000000004,
+    "soil_moisture": 20.870250000000002
+  },
+  "feature_stds": {
+    "equipment_downtime": 3.002102479637498,
+    "equipment_availability": 14.708040901762539,
+    "maintenance_hours": 2.155963795433041,
+    "rainfall": 29.320523708254527,
+    "blasting_delay": 2.3782167241375247,
+    "historical_production": 23.05049572830923,
+    "production_trend": 62.10642888640883,
+    "temperature": 11.039220396722703,
+    "soil_moisture": 6.1833181623009335
+  }
+}
